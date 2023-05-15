@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Automating Gift Card Generation",
+    "desc": "Selenium program to create Gift cards and change expiry date on shopify using XML, JavaScript.",
     "image": "notystackandroid",
     "category": "sel",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+
     }
   },
   {
