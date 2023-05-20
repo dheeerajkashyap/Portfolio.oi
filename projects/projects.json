@@ -21,8 +21,7 @@
   },
     {
     "name": "Automated E-Cart",
-    "desc": "The project is carried out keeping in mind the discomfort faced by warehouses using cart to displace their stock. The manpower and discomfort caused by operating a manual trolley and waste of labor on it is a serious issue which demands more money to be put in and hence resulting in the less profit. Our goal here is to provide the firms and warehouses with an alternative which does not require any skilled labor nor any high expensive machine just an automated e-cart which can be controlled from Bluetooth and your device. Using Arduino(IOT), AutoCAD, Fusion 360 and other manufacturing skills 
-",
+    "desc": "This automated cart was created utilizing Arduino (IoT), AutoCAD, Fusion 360, and other manufacturing skills. It was designed specifically for warehouse and logistics operations, eliminating the need for human intervention..",
     "image": "Autoreport",
     "category": "sel",
     "links": {
