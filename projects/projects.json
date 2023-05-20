@@ -11,7 +11,7 @@
   },
   {
     "name": "Automated Analytical Reports",
-    "desc": "Sourcing data from shopify, Google analytics and Facebook ads to DBMS, making automated report on googlesheets and sending reports to Upper management and stakeholders for insights and decision making",
+    "desc": "Sourcing data from shopify, Google analytics and Facebook ads to DBMS",
     "image": "Autoreport",
     "category": "sel",
     "links": {
@@ -21,7 +21,7 @@
   },
     {
     "name": "Automated E-Cart",
-    "desc": "This automated cart was created utilizing Arduino (IoT), AutoCAD, Fusion 360, and other manufacturing skills. It was designed specifically for warehouse and logistics operations, eliminating the need for human intervention.",
+    "desc": "This automated cart was created utilizing Arduino (IoT), AutoCAD, Fusion 360, and other manufacturing skills.",
     "image": "Autocart",
     "category": "sel",
     "links": {
@@ -31,7 +31,7 @@
   },
     {
     "name": "Research paper on V2V Communication",
-    "desc": "The rapid modernization of technology in recent decades has brought significant advancements and upgrades across various industries, including automotive. The integration of AI/ML, IoT, and digitalization has revolutionized the automotive industry, enhancing efficiency, security, and connectivity. Additionally, the establishment of vehicle-to-vehicle communication networks holds great potential for improving transportation management, productivity, and future readiness for autonomous vehicles.",
+    "desc": "The rapid modernization of technology has revolutionized the automotive industry, enhancing efficiency, security, and connectivity while paving the way for future-ready solutions like vehicle-to-vehicle communication.",
     "image": "V2VSetup",
     "category": "sel",
     "links": {
