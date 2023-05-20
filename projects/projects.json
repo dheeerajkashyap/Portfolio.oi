@@ -6,17 +6,17 @@
     "category": "sel",
     "links": {
       "view": "https://docs.google.com/presentation/d/1FfW6YOmPU9-lmrRLT7japWc2nO21VM3INiFoWzb-nWQ/edit?usp=share_link",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "code": ""
     }
   },
   {
-    "name": "Automating Gift Card Generation",
-    "desc": "Selenium program to create Gift cards and change expiry date on shopify using XML, JavaScript.",
-    "image": "shopifse",
+    "name": "Automated Analytical Reports",
+    "desc": "Sourcing data from shopify, Google analytics and Facebook ads to DBMS, making automated report on googlesheets and sending reports to Upper management and stakeholders for insights and decision making",
+    "image": "Autoreport",
     "category": "sel",
     "links": {
-      "view": "https://docs.google.com/presentation/d/1FfW6YOmPU9-lmrRLT7japWc2nO21VM3INiFoWzb-nWQ/edit?usp=share_link",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://docs.google.com/presentation/d/1_lnrsbijj2yYfjZljgRRgIfaLPJF2RJ05J3CEFTnSWM/edit?usp=share_link",
+      "code": ""
     }
   }
 
