@@ -33,6 +33,14 @@
         "icon": "https://img.icons8.com/color/48/tableau-software.png"
     },
     {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/sql.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/color/48/jira.png"
+    },
+    {
         "name": "Photoshop",
         "icon": "https://img.icons8.com/color/48/adobe-photoshop--v1.png"
     },
@@ -55,13 +63,5 @@
     {
         "name": "AutoCAD",
         "icon": "https://img.icons8.com/fluency/48/autocad.png"
-    },
-    {
-        "name": "SQL",
-        "icon": "https://img.icons8.com/color/48/sql.png"
-    },
-    {
-        "name": "Jira",
-        "icon": "https://img.icons8.com/color/48/jira.png"
-    }  
+    }
 ]
