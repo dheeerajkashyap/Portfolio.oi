@@ -63,5 +63,9 @@
     {
         "name": "AutoCAD",
         "icon": "https://img.icons8.com/fluency/48/autocad.png"
+    },
+    {
+        "name": "Adding More",
+        "icon": "https://img.icons8.com/external-febrian-hidayat-flat-febrian-hidayat/64/external-plus-ui-essential-febrian-hidayat-flat-febrian-hidayat.png"
     }
 ]
