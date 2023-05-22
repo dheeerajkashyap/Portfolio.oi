@@ -37,6 +37,10 @@
         "icon": "https://img.icons8.com/color/48/sql.png"
     },
     {
+        "name": "BigQuery",
+        "icon": "https://cdn.cdnlogo.com/logos/g/44/google-bigquery.svg"
+    },
+    {
         "name": "Jira",
         "icon": "https://img.icons8.com/color/48/jira.png"
     },
